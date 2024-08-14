@@ -2,3 +2,5 @@
 ./insert_data.sh
 ls --color=auto
 rm students_test.csv
+__vsc_prompt_cmd_original
+rm courses_test.csv
