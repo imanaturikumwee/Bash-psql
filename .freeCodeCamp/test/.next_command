@@ -8,3 +8,6 @@ ls --color=auto
 pg_dump
 pg_dump --help
 pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
+cd '/workspace/project'
+git push https://github.com/imanaturikumwee/Bash-psql.git
+git add .
